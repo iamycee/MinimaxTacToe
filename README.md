@@ -5,6 +5,9 @@ It is a backtracking algorithm used for decision making in games, it uses a heur
 
 It is  widely used in two-player games to minimize the worst case(maximum) potential loss.
 
+![capture](https://user-images.githubusercontent.com/22703821/39758847-b090f516-52ee-11e8-8f00-b246f1fe4283.PNG)
+
+
 #### References:
 
 Computerphile Intro to Mimimax: https://www.youtube.com/watch?v=5oXyibEgJr0
