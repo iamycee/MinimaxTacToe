@@ -10,8 +10,8 @@ It is  widely used in two-player games to minimize the worst case(maximum) poten
 
 #### References:
 
-Computerphile Intro to Mimimax: https://www.youtube.com/watch?v=5oXyibEgJr0
+Computerphile Intro to Minimax: https://www.youtube.com/watch?v=5oXyibEgJr0
 
-MIT lecture on game-playing AI: https://www.youtube.com/watch?v=STjW3eH0Cik
+MIT 6.034 lecture on game-playing AI: https://www.youtube.com/watch?v=STjW3eH0Cik
 
 Blog on TicTacToe AI: https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37
